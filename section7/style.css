@@ -1,0 +1,24 @@
+.TitleFix{
+    
+    font-size: 14px;
+ 
+}
+.pictur{
+    
+    text-align: center;
+}
+.footer{
+    font-size: 14px;
+}
+.subtitle{
+    font-size: 14px;
+}
+.form{
+    margin: 20px;
+    display: flex;
+}
+.lite{
+    
+    padding-left: 10px;
+    padding-top: 15px;
+}

@@ -47,12 +47,14 @@ display: flex;
     margin-right: 200px;
 }
 
-
 .page img{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+.linka{
+    text-align: center;
 }
 .mainpattern{
     text-align: center;

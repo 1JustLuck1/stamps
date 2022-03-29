@@ -1,3 +1,10 @@
+body {
+    
+   background: url(../pics/background.jpg) fixed center / cover;  
+
+    
+}
+
 .TitleFix{
     
     font-size: 14px;

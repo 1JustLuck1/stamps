@@ -1,3 +1,9 @@
+body {
+    
+   background: url(../pics/background.jpg) fixed center / cover;  
+
+    
+}
 .MainFix{
     margin: 10px;
     font-size: 14px;
@@ -23,4 +29,7 @@ padding-left: 500px;
     
     
     
+}
+.linka{
+    text-align: center;
 }

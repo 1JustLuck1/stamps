@@ -63,3 +63,12 @@ display: flex;
 h2{
     font-size: 25px;
 }
+.page table{
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid blue;
+    border-collapse: separate;
+    border-spacing: 10px;
+    border-color: black;
+    
+}
